@@ -25,11 +25,11 @@ Anaconda - Python 3.7
 ### Step9: Split and Merge RGB Image
 ### Step10: Split and merge HSV Image
 
-##### Program:
-```
-### Developed By: Sanjay G
-### Register Number: 212222230131
-```
+## Program:
+
+### Developed By: AFSAR JUMAIL S
+### Register Number: 212222240004
+
 
 
 ### i) Read and display the image
